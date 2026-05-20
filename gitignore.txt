@@ -1,0 +1,17 @@
+# Unlock Tool Professional - Git Exclusions
+*.exe
+*.dll
+*.sys
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.log
+
+# Device Backups & Drivers
+/Backups/
+/Drivers/*.inf
+/Logs/
+temp_auth.dat
